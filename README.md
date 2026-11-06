@@ -1,7 +1,9 @@
 # Lab 9: Cloud Cost Estimate for ShopPro International
 
 **Course:** CST8913 Cloud Migration 
-**Student:** Dhruvansh Zala (041214130) |
+
+**Student:** Dhruvansh Zala (041214130) 
+
 **Date:** November 5, 2026
 
 ## 1. Introduction
